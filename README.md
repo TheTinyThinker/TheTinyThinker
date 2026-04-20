@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning to make full stack application using mongodb, AWS, Redis and pusher<br>🎯 Goals: To write good code<br>🎲 Fun fact: The first computer bug was a real moth found trapped in the Harvard Mark II computer on September 9, 1947</p>
 
 ###
 
