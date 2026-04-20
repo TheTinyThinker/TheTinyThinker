@@ -62,6 +62,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
 </div>
 
+
+###
+
+<h2 align="left">social media</h2>
+
+###
 ###
 
 <div align="center">
