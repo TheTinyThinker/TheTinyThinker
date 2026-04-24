@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey What's up?</h1>
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from Ireland studing at IADT | Institute of Art, Design and Technology</p>
+<p align="left">My name is TheTinyThinker and I'm a Student, from Ireland studing at IADT | Institute of Art, Design and Technology</p>
 
 ###
 
